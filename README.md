@@ -7,7 +7,7 @@ Hi, I'm Phuoc Sang!
 <br/>
 <p align="center">
 	<a href="https://github.com/phuocsanq">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
